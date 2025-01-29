@@ -6,4 +6,4 @@ Please report any suspected security vulnerabilities [here][new-advisory]. If th
 patch as soon as possible depending on complexity. Please follow [responsible disclosure
 practices](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure). Thanks!
 
-[new-advisory]: https://github.com/mehalter/astromason-registry/security/advisories/new
+[new-advisory]: https://github.com/AstroNvim/mason-registry/security/advisories/new
