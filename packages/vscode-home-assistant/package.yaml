@@ -15,7 +15,7 @@ source:
     file: keesschollaart.vscode-home-assistant-{{version}}.vsix
 
 bin:
-  home-assistant-language-server: node:extension/out/server/server.js
+  vscode-home-assistant: node:extension/out/server/server.js
 
 neovim:
   lspconfig: home_assistant
